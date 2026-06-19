@@ -5,3 +5,6 @@
 [submodule "FVDDPpkg"]
 	path = FVDDPpkg
 	url = https://github.com/stefanodamato/fvddppkg
+[submodule "fable.intermittent"]
+	path = fable.intermittent
+	url = https://github.com/stefanodamato/fable.intermittent
