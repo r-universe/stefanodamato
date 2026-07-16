@@ -8,3 +8,6 @@
 [submodule "fable.intermittent"]
 	path = fable.intermittent
 	url = https://github.com/stefanodamato/fable.intermittent
+[submodule "tweedieDistr"]
+	path = tweedieDistr
+	url = https://github.com/stefanodamato/tweediedistr
